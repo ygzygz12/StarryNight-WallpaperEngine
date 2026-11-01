@@ -1,0 +1,24 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"constantshadervalues" : {},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "starrynight",
+			"textures" : [ "util/white" ],
+			"usershadervalues" : 
+			{
+				"theme_preset" : "Scheme",
+				"custom_top_color" : "CustomTop",
+				"custom_bottom_color" : "CustomBottom",
+				"custom_star_color" : "CustomStar",
+				"star_density" : "StarDensity",
+				"shooting_speed" : "ShootingSpeed"
+			}
+		}
+	]
+}
+

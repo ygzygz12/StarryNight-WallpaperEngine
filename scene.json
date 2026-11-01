@@ -1,0 +1,38 @@
+{
+	"camera" : 
+	{
+		"center" : "0.000 0.000 -1.000",
+		"eye" : "0.000 0.000 0.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : true,
+		"bloomstrength" : 1.2,
+		"bloomthreshold" : 0.65,
+		"camerafade" : false,
+		"clearcolor" : "0.000 0.000 0.000",
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 1920
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 1,
+			"image" : "models/starrynight.json",
+			"name" : "StarryNight Sky",
+			"origin" : "960.000 540.000 0.000",
+			"scale" : "1.000 1.000 1.000",
+			"size" : "1920.000 1080.000",
+			"visible" : true
+		}
+	],
+	"version" : 5
+}
+
